@@ -1,7 +1,7 @@
 # Starter Web Repo
 
 This repository is for showing how Git and GitHub work
-Greg waz here :->
+Greg waz here :->. Yes, yes he was...
 
 ## Introduction
 
