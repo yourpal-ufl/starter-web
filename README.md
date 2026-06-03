@@ -8,6 +8,7 @@ Greg waz here :->. Yes, yes he was...
 ## Purpose
 
 Sample website with plenty of files for demos
+Some more garbage.
 
 ## Deployment
 
