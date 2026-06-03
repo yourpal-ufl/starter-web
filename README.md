@@ -17,4 +17,4 @@ Please fork this repo then issue requests for review
 
 ### Copyright
 
-Sample Copyright
+Sample Copyright. Dummy dumb dumb text.
