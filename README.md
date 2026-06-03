@@ -12,6 +12,8 @@ Sample website with plenty of files for demos
 
 ## How to Contribute
 
+Please fork this repo then issue requests for review
+
 ### Copyright
 
 Sample Copyright
